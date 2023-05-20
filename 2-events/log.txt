@@ -1,0 +1,6 @@
+
+Character added: #<Lotr::Character id="1255431ae" name="Bilbo" age=90 height=nil>
+
+Character added: #<Lotr::Character id="1255431ae" name="Bilbo" age=90 height=nil>
+
+Character removed: #<Lotr::Character id="1255431ae" name="Bilbo" age=90 height=nil>
